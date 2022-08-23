@@ -14,6 +14,7 @@ app.use(cors());
 app.use("/posts", postRoutes);
 
 // remmember to replace DB info with my own in the future...
+// "mongodb+srv://Wilson-Chu:<password>@cluster-01.oo5d1wz.mongodb.net/?retryWrites=true&w=majority"
 const CONNECTION_URL =
   "mongodb+srv://js_mastery:123123123@practice.jto9p.mongodb.net/test";
 const PORT = process.env.PORT || 5000;
