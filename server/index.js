@@ -29,4 +29,4 @@ mongoose
   .catch((error) => console.log(`${error} did not connect`));
 
 // remove below line if 'error-usefindandmodify-is-an-invalid-option' error occurs, mongoose version deprecated
-mongoose.set("useFindAndModify", false);
+// mongoose.set("useFindAndModify", false);
