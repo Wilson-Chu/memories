@@ -4,4 +4,4 @@ A full stack MERN app where users can sign-in to their own accounts, and add/upd
 
 Deployment: Netlify (frontend) & Heroku (backend), or AWS EC2 [TBD]
 
-Technologies used: MongoDB, Express, React (and Redux), NodeJS, Google OAuth.
+Technologies used: MongoDB, Express, React (with Router, Redux, etc.), NodeJS, Google OAuth.
