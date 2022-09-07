@@ -4,6 +4,8 @@ import dotenv from "dotenv";
 
 import User from "../models/user.js";
 
+// directly sub in secret value if .env import does not work later
+// (remember to check .env file if errors occur)
 dotenv.config();
 const secret = process.env.SECRET;
 
