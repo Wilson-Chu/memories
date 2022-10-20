@@ -7,4 +7,4 @@ Deployment: Netlify frontend and AWS EC2 backend [was considering Heroku backend
 Technologies used: MongoDB, Express, React (with Router, Redux, etc.), NodeJS, Google OAuth (Identity Services)
 
 *** Currently refactoring code for Google OAuth 2.0 - Identity Services (new system - older OAuth deprecated)
-*** Blocked integrating Google Identity Services and Redux, will update once deployable ASAP ***
+*** Currently blocked by integrating Google Identity Services and Redux, will update once deployable ASAP ***
