@@ -9,3 +9,4 @@ Technologies used: MongoDB, Express, React (with Router, Redux, etc.), NodeJS, G
 
 *** Currently refactoring code for Google OAuth 2.0 - Identity Services (new system - older OAuth deprecated)
 *** Currently blocked by integrating Google Identity Services and Redux, will update once deployable ASAP ***
+...will need new Google API keys soon...will update this then...
