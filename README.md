@@ -6,3 +6,5 @@ A full stack MERN app where users can sign-in to their own accounts, and add/upd
 Deployment: Netlify frontend and AWS EC2 backend probably [currently investigating render.com for viability]
 
 Technologies used: MongoDB, Express, React (with Router, Redux, etc.), NodeJS, Google OAuth 2.0 (Identity Services)
+
+TBD:  will need to update some dates to 2023...
